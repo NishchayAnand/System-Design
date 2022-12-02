@@ -1,0 +1,31 @@
+
+`
+java:S1068"-Remove this unused "configMap" private field.(€´€î8Áä»½¹0H—RMAJORZ
+CODE_SMELL
+·
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(çòÒ¼8·î’Â¹0HªRCRITICALZ
+CODE_SMELL
+h
+java:S1068"0Remove this unused "groundCoffee" private field.(çİ¡ÿÿÿÿÿ8Áä»½¹0H˜RMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(€´€î8Áä»½¹0H”RMAJORZ
+CODE_SMELL
+`
+java:S1144	".Remove this unused private "printInfo" method.(’“’u8·î’Â¹0H«RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(çİ¡ÿÿÿÿÿ8Áä»½¹0H•RMAJORZ
+CODE_SMELL
+¶
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’“’u8·î’Â¹0H©RCRITICALZ
+CODE_SMELL
+g
+java:S1068"/Remove this unused "brewingUnit" private field.(şûßĞıÿÿÿÿ8Áä»½¹0H™RMAJORZ
+CODE_SMELL
+z
+java:S2094"BRemove this empty class, write its code or make it an "interface".(Ôî„úÿÿÿÿÿ8Áä»½¹0H–RMINORZ
+CODE_SMELL

@@ -1,0 +1,23 @@
+
+r	java:S125<"<This block of commented-out lines of code should be removed.(ÈÀ¶Éıÿÿÿÿ8äËË×³0HKRMAJORZ
+CODE_SMELL
+h
+java:S1854J"6Remove this useless assignment to local variable "in".(šî–Õ8Ä±Ğ×³0HQRMAJORZ
+CODE_SMELL
+‡	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®„üÿÿÿÿÿ8˜ó´·³0HDRMINORZ
+CODE_SMELL
+c
+java:S1481O",Remove this unused "in_stat" local variable.(®„üÿÿÿÿÿ8¿‘–¸³0HBRMINORZ
+CODE_SMELL
+Y
+java:S1481J"'Remove this unused "in" local variable.(šî–Õ8Ä±Ğ×³0HRRMINORZ
+CODE_SMELL
+E
+java:S1220""Move this file to a named package.H@RMINORZ
+CODE_SMELL
+r
+java:S1854O";Remove this useless assignment to local variable "in_stat".(®„üÿÿÿÿÿ8¿‘–¸³0HERMAJORZ
+CODE_SMELL
+h
+java:S1197B"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿHCRMINORZ
+CODE_SMELL

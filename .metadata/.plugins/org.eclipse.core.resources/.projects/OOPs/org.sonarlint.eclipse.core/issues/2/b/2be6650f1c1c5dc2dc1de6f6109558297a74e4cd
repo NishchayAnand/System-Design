@@ -1,0 +1,26 @@
+
+€	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®„üÿÿÿÿÿHzRMINORZ
+CODE_SMELL
+]
+java:S1481O",Remove this unused "in_stat" local variable.(®„üÿÿÿÿÿHƒRMINORZ
+CODE_SMELL
+E
+java:S1220""Move this file to a named package.H{RMINORZ
+CODE_SMELL
+a
+java:S1854J"6Remove this useless assignment to local variable "in".(šî–ÕHRMAJORZ
+CODE_SMELL
+k
+java:S1854O";Remove this useless assignment to local variable "in_stat".(®„üÿÿÿÿÿH~RMAJORZ
+CODE_SMELL
+i
+java:S1197B"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿH€RMINORZ
+CODE_SMELL
+f
+java:S2209L"5Change this instance-reference to a static reference.(Š÷‡–üÿÿÿÿHRMAJORZ
+CODE_SMELL
+k	java:S125<"<This block of commented-out lines of code should be removed.(ÈÀ¶ÉıÿÿÿÿH|RMAJORZ
+CODE_SMELL
+S
+java:S1481J"'Remove this unused "in" local variable.(šî–ÕH‚RMINORZ
+CODE_SMELL
