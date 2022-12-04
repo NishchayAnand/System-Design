@@ -31,17 +31,18 @@ public class WebServer {
 		setMaxConnections(maxConnections);
 	}
 	
-	// this method can be overridden to handle different client requests: get, post, put etc.
+	// this method can be overridden to handle the client request.
 	protected void handleConnection(Socket server) throws IOException {
 		
 		System.out.println("Processing the request...");
 		
-		BufferedReader in = new BufferedReader( new InputStreamReader(server.getInputStream()) );			
+		BufferedReader in = new BufferedReader( new InputStreamReader(server.getInputStream()) );		
+		PrintWriter out = new PrintWriter( server.getOutputStream(),true );	
+	
 		System.out.println("Generic network server: got connection from " + 
 				server.getInetAddress().getHostName() + "\n" +
 				"with first line '" + in.readLine() + "'");
-		
-		PrintWriter out = new PrintWriter( server.getOutputStream(),true );		 
+			 
 		out.println("Generic network server"); // this will give invalid http error on the browser
 		
 		server.close();
