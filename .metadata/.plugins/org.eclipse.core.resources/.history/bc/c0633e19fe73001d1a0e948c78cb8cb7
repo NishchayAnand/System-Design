@@ -47,12 +47,6 @@ public class WebServer {
 		PrintWriter out = new PrintWriter( server.getOutputStream(),true );		 
 		out.println("Generic network server"); // this will give invalid http error on the browser
 		
-		// We can use multiple switch cases or conditional statements to handle different requests.
-		// However, such kind of code quickly leads to tightly coupled and rigid software that is 
-		// difficult-to-change.
-		// Also, such class designs are blatant violation of the basic OOPs' concepts and the SOLID 
-		// design principles – primarily the Open Close and Single Responsibility principles.
-		
 		server.close();
 		
 	}
