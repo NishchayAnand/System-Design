@@ -1,7 +1,7 @@
 
-F
-java:S1220""Move this file to a named package.HÍRMINORZ
-CODE_SMELL
 p
-java:S1197L"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¬³¾Í0HÎRMINORZ
+java:S1197L"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¬³¾Í0HëRMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HêRMINORZ
 CODE_SMELL

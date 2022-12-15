@@ -1,10 +1,10 @@
 
+F
+java:S1220""Move this file to a named package.HîRMINORZ
+CODE_SMELL
 U
-java:S1174&"&Make this finalize() method protected.(ÎÎü®HÞRCRITICALZ
+java:S1174&"&Make this finalize() method protected.(ÎÎü®HíRCRITICALZ
 CODE_SMELL
 \
-java:S1113&"-Do not override the Object.finalize() method.(ÎÎü®HßRCRITICALZ
-CODE_SMELL
-F
-java:S1220""Move this file to a named package.HàRMINORZ
+java:S1113&"-Do not override the Object.finalize() method.(ÎÎü®HìRCRITICALZ
 CODE_SMELL
